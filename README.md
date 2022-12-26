@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Phong Nguyen
 - 📫 How to reach me 
-[Linked In]([https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-nguy%E1%BB%85n-73b9a2257](https://www.linkedin.com/in/phong-nguy%E1%BB%85n-27246625b))
+[Linked In](https://www.linkedin.com/in/phong-nguy%E1%BB%85n-27246625b)
 ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
