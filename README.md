@@ -1,3 +1,13 @@
+
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Compass165/count.svg" />
+</p>
+
 ## 👋 Hi, I’m Phong Nguyen
 - 📫 How to reach me 
 [Linked In](www.linkedin.com/in/ndphong165)
